@@ -1,5 +1,6 @@
 ---
 galaxy_info:
+  role_name: conf_base
   author: 4Linux DevOps
   description: Configuracao Base de usuarios, pacotes e hosts
   company: 4Linux
